@@ -1,8 +1,10 @@
 # CatchMouse
 Move the cursor between multiple displays using a shortcut. (Version 1.2)
 
-[CatchMouse repo](https://github.com/round/CatchMouse)
+[CatchMouse Repo](https://github.com/round/CatchMouse)
+
 [CatchMouse v1.0](https://web.archive.org/web/20150502123813/http://ftnew.com:80/catchmouse.html)
+
 [CatchMouse v1.2](https://github.com/microsoft/PowerToys/files/5012390/CatchMouse2.zip)
 
 ## usage
