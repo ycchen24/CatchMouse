@@ -17,7 +17,8 @@ mv ~/Desktop/CatchMouse.app/ /Applications/CatchMouse.app/
     1. Click the App Store and Identified Developers radial button.
     1. Look for “(App Name) was blocked from opening because it is not from an identified developer” and click Open Anyway. (In older versions of macOS, you could click Anywhere and then click Allow From Anywhere.)
     1. Try rerunning the app.
-1. hide app icon from dock and add following code before `</dict>`. then restart CatchMouse
+1. hide app icon from dock
+edit the file `/Applications/CatchMouse.app/Contents/Info.plist` with adding following code before `</dict>`. then restart CatchMouse
 ```
 <key>NSBGOnly</key>
 <string>1</string>
